@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -34,7 +33,7 @@ const Index = () => {
             {/* CTA Buttons */}
             <div className="hidden md:flex items-center space-x-4">
               <Button variant="outline" className="border-black text-black hover:bg-gray-50">
-                <a href="https://forms.google.com/blackbox-interesse" target="_blank" rel="noopener noreferrer">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScJJlgeGI7OWgefQk5fH6XLYmAJ8jdNzndfVqifKL-slJUvwQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
                   Pré-cadastro
                 </a>
               </Button>
@@ -63,7 +62,7 @@ const Index = () => {
                 <a href="#contato" className="text-gray-600 hover:text-black transition-colors">Contato</a>
                 <div className="flex flex-col space-y-2 pt-4">
                   <Button variant="outline" className="border-black text-black hover:bg-gray-50">
-                    <a href="https://forms.google.com/blackbox-interesse" target="_blank" rel="noopener noreferrer">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScJJlgeGI7OWgefQk5fH6XLYmAJ8jdNzndfVqifKL-slJUvwQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
                       Pré-cadastro
                     </a>
                   </Button>
@@ -100,7 +99,7 @@ const Index = () => {
                   Baixar Agora
                 </Button>
                 <Button size="lg" variant="outline" className="border-black text-black hover:bg-gray-50 text-lg px-8 py-3">
-                  <a href="https://forms.google.com/blackbox-interesse" target="_blank" rel="noopener noreferrer">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLScJJlgeGI7OWgefQk5fH6XLYmAJ8jdNzndfVqifKL-slJUvwQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
                     Demonstração
                   </a>
                 </Button>
@@ -384,7 +383,7 @@ const Index = () => {
             </div>
 
             <Button size="lg" className="bg-black text-white hover:bg-gray-800 text-lg px-8 py-3 mt-8">
-              <a href="https://forms.google.com/blackbox-orgaos" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScJJlgeGI7OWgefQk5fH6XLYmAJ8jdNzndfVqifKL-slJUvwQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
                 Solicitar Parceria Institucional
               </a>
             </Button>
@@ -571,7 +570,7 @@ const Index = () => {
                 Download Grátis
               </Button>
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black text-lg px-8 py-3">
-                <a href="https://forms.google.com/blackbox-interesse" target="_blank" rel="noopener noreferrer">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScJJlgeGI7OWgefQk5fH6XLYmAJ8jdNzndfVqifKL-slJUvwQ/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
                   Quero Saber Mais
                 </a>
               </Button>
